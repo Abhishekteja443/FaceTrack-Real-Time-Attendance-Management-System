@@ -73,8 +73,8 @@ This project is licensed under the MIT License.
 
 ## Author
 **Your Name**  
-Email: your.email@example.com  
-LinkedIn: [Your Profile](https://www.linkedin.com/in/yourprofile)
+Email: g.abhishekteja@gmail.com 
+LinkedIn: https://www.linkedin.com/in/abhishektejagoli/
 
 ---
 Feel free to contribute to this project by opening pull requests and reporting issues!
